@@ -1,0 +1,14 @@
+C:/Projects/ASPNET/SocialAuth/AspNetCoreWebApiSocialAuth/bin/Debug/netstandard2.1/AspNetCoreWebApiSocialAuth.deps.json
+C:/Projects/ASPNET/SocialAuth/AspNetCoreWebApiSocialAuth/bin/Debug/netstandard2.1/AspNetCoreWebApiSocialAuth.dll
+C:/Projects/ASPNET/SocialAuth/AspNetCoreWebApiSocialAuth/obj/Debug/netstandard2.1/AspNetCoreWebApiSocialAuth.AssemblyInfoInputs.cache
+C:/Projects/ASPNET/SocialAuth/AspNetCoreWebApiSocialAuth/obj/Debug/netstandard2.1/AspNetCoreWebApiSocialAuth.AssemblyInfo.cs
+C:/Projects/ASPNET/SocialAuth/AspNetCoreWebApiSocialAuth/bin/Debug/netstandard2.1/AspNetCoreWebApiSocialAuth.pdb
+C:/Projects/ASPNET/SocialAuth/AspNetCoreWebApiSocialAuth/obj/Debug/netstandard2.1/AspNetCoreWebApiSocialAuth.dll
+C:/Projects/ASPNET/SocialAuth/AspNetCoreWebApiSocialAuth/obj/Debug/netstandard2.1/AspNetCoreWebApiSocialAuth.pdb
+/Users/user/Projects/SocialAuth/AspNetCoreWebApiSocialAuth/bin/Debug/netstandard2.1/AspNetCoreWebApiSocialAuth.deps.json
+/Users/user/Projects/SocialAuth/AspNetCoreWebApiSocialAuth/bin/Debug/netstandard2.1/AspNetCoreWebApiSocialAuth.dll
+/Users/user/Projects/SocialAuth/AspNetCoreWebApiSocialAuth/bin/Debug/netstandard2.1/AspNetCoreWebApiSocialAuth.pdb
+/Users/user/Projects/SocialAuth/AspNetCoreWebApiSocialAuth/obj/Debug/netstandard2.1/AspNetCoreWebApiSocialAuth.AssemblyInfoInputs.cache
+/Users/user/Projects/SocialAuth/AspNetCoreWebApiSocialAuth/obj/Debug/netstandard2.1/AspNetCoreWebApiSocialAuth.AssemblyInfo.cs
+/Users/user/Projects/SocialAuth/AspNetCoreWebApiSocialAuth/obj/Debug/netstandard2.1/AspNetCoreWebApiSocialAuth.dll
+/Users/user/Projects/SocialAuth/AspNetCoreWebApiSocialAuth/obj/Debug/netstandard2.1/AspNetCoreWebApiSocialAuth.pdb
